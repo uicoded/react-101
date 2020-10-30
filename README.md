@@ -1,8 +1,8 @@
 # About
 
-Using Class syntax to create
-`<Button onClick={this.incrementCouter} />` component with hadler that executes a function.
+Using Class syntax to create `<App>` and 
+`<Button>` components.
 
-The component itself has own functionality (click handler) as well.
+`<Button onClick={} />` has a prop accepting a function
 
-Parent and child states are explored.
+Both `<App>` and `<Button>` (parent and child) components have states.
